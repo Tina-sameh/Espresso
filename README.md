@@ -17,13 +17,11 @@ It highlights multimedia integration (images & video) while keeping performance 
 ### 📸 Screenshots
 > Replace the paths below with your actual image paths.
 
-![Screenshot 1](assets/screen1.png)  
-![Screenshot 2](assets/screen2.png)
+<p align="center">
+  <img src="./assets/screen1.png" width="250" />
+  <img src="./assets/screen2.png" width="250" />
+</p>
 
-### 🎥 Demo Video
-> You can link a local video file or an online video (Drive, YouTube, etc.)
-
-[Watch Demo Video](assets/video.mp4)
 
 ---
 
