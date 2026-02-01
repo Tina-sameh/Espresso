@@ -15,7 +15,6 @@ It highlights multimedia integration (images & video) while keeping performance 
 ## 🎬 Preview
 
 ### 📸 Screenshots
-> Replace the paths below with your actual image paths.
 
 <p align="center">
   <img src="./assets/screen1.png" width="250" />
