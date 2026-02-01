@@ -1,16 +1,58 @@
-# esperesso
+# ☕ Espresso App
 
-A new Flutter project.
+Espresso is a modern Flutter application focused on delivering a clean, smooth, and visually appealing user experience.  
+The app showcases images and video content with a simple structure and elegant UI, making it perfect as a demo, UI showcase, or starter project.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📖 Overview
 
-A few resources to get you started if this is your first Flutter project:
+This project is built using **Flutter** and **Dart**, following clean code principles and a responsive design approach.  
+It highlights multimedia integration (images & video) while keeping performance and simplicity in mind.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎬 Preview
+
+### 📸 Screenshots
+> Replace the paths below with your actual image paths.
+
+![Screenshot 1](assets/screen1.png)  
+![Screenshot 2](assets/screen2.png)
+
+### 🎥 Demo Video
+> You can link a local video file or an online video (Drive, YouTube, etc.)
+
+[Watch Demo Video](assets/video.mp4)
+
+---
+
+## ✨ Features
+- Clean and modern UI  
+- Responsive layout for different screen sizes  
+- Image display support  
+- Video playback support  
+- Smooth user experience  
+
+---
+
+## 🛠️ Built With
+- **Flutter**
+- **Dart**
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+### Prerequisites
+- Flutter SDK installed  
+- Dart SDK  
+- Android Studio / VS Code (optional)
+
+### Installation
+
+```bash
+flutter pub get
+flutter run
